@@ -1,6 +1,6 @@
 ## Mcash
 
-This is still a WIP, but it will become a privacy + security focused cryptocurrency.
+The project has moved to [Mcash-project](https://github.com/Mcash-project/Mcash)
 
 ### Building
 
